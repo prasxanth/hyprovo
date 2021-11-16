@@ -1,0 +1,20 @@
+2021-11-14 11:26:50.260 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
+2021-11-14 11:26:50.265 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
+                                    Expected: 4
+                                    Got: 1
+2021-11-14 11:26:50.272 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
+2021-11-14 11:26:50.276 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
+                                    Expected: 4
+                                    Got: 1.0
+2021-11-14 11:26:50.283 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass 
+                                    Expected: 1
+                                    Got: 6
+2021-11-14 11:26:50.288 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
+                                    Expected: 4
+                                    Got: 6
+2021-11-14 11:26:50.297 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass 
+                                    Expected: 1
+                                    Got: 1.5
+2021-11-14 11:26:50.300 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
+                                    Expected: 4
+                                    Got: 0.6666666666666666

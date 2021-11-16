@@ -1,0 +1,12 @@
+2021-11-16 09:27:35.134 - INFO - Pass ✓...  add pass
+2021-11-16 09:27:35.136 - ERROR - Fail ✗...  sub fail 
+                                    Expected: 4
+                                    Got: -1
+2021-11-16 09:27:35.139 - INFO - Pass ✓...  mul pass
+2021-11-16 09:27:35.144 - INFO - Pass ✓...  div pass
+2021-11-16 09:27:35.146 - ERROR - Fail ✗...  add fail 
+                                    Expected: -6
+                                    Got: 5
+2021-11-16 09:27:35.149 - ERROR - Fail ✗...  mul fail 
+                                    Expected: 3
+                                    Got: 20

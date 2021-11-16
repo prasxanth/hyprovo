@@ -1,0 +1,13 @@
+2021-11-14 11:26:49.552 - INFO - Pass ✓... (test-arithmetic-1-report-combined-results): add pass
+2021-11-14 11:26:49.555 - ERROR - Fail ✗... (test-arithmetic-1-report-combined-results): sub fail 
+                                    Expected: 2
+                                    Got: -1
+2021-11-14 11:26:49.563 - INFO - Pass ✓... (test-arithmetic-1-report-combined-results / test-sub): sub pass
+2021-11-14 11:26:49.567 - ERROR - Fail ✗... (test-arithmetic-1-report-combined-results / test-sub): sub fail 
+                                    Expected: 4
+                                    Got: -1
+2021-11-14 11:26:49.575 - INFO - Pass ✓... (test-arithmetic-1-report-combined-results / test-div): div pass
+2021-11-14 11:26:49.579 - ERROR - Fail ✗... (test-arithmetic-1-report-combined-results / test-div): div fail 
+                                    Expected: 4
+                                    Got: 0.6666666666666666
+2021-11-14 11:26:49.580 - DEBUG - (test-arithmetic-1-report-combined-results): Test Summary → Total: 6    Pass: 3    Fail: 3

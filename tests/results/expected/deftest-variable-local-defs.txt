@@ -1,0 +1,4 @@
+2021-11-14 11:26:49.592 - INFO - Pass ✓... (test-sub-variable-local-defs): sub pass
+2021-11-14 11:26:49.595 - ERROR - Fail ✗... (test-sub-variable-local-defs): sub fail 
+                                    Expected: 7
+                                    Got: -2

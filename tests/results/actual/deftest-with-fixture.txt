@@ -1,0 +1,17 @@
+2021-11-16 09:27:35.376 - INFO - Pass ✓... (deftest-with-fixture / test-add-variable): add pass
+2021-11-16 09:27:35.378 - ERROR - Fail ✗... (deftest-with-fixture / test-add-variable): add fail 
+                                    Expected: 3
+                                    Got: 2
+2021-11-16 09:27:35.383 - INFO - Pass ✓... (deftest-with-fixture / test-sub-variable): sub pass
+2021-11-16 09:27:35.386 - ERROR - Fail ✗... (deftest-with-fixture / test-sub-variable): sub fail 
+                                    Expected: 4
+                                    Got: 0
+2021-11-16 09:27:35.390 - INFO - Pass ✓... (deftest-with-fixture / test-mul): mul pass
+2021-11-16 09:27:35.393 - ERROR - Fail ✗... (deftest-with-fixture / test-mul): mul fail 
+                                    Expected: 4
+                                    Got: 6
+2021-11-16 09:27:35.397 - INFO - Pass ✓... (deftest-with-fixture / test-div): div pass
+2021-11-16 09:27:35.400 - ERROR - Fail ✗... (deftest-with-fixture / test-div): div fail 
+                                    Expected: 4
+                                    Got: 0.6666666666666666
+2021-11-16 09:27:35.400 - DEBUG - (deftest-with-fixture): Test Summary → Total: 8    Pass: 4    Fail: 4

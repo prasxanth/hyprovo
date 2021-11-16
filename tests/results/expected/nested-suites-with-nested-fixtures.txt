@@ -1,0 +1,29 @@
+2021-11-14 11:26:50.351 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
+2021-11-14 11:26:50.355 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
+                                    Expected: 4
+                                    Got: 1
+2021-11-14 11:26:50.363 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
+2021-11-14 11:26:50.367 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
+                                    Expected: 4
+                                    Got: 1.0
+2021-11-14 11:26:50.375 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass 
+                                    Expected: 1
+                                    Got: 6
+2021-11-14 11:26:50.379 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
+                                    Expected: 4
+                                    Got: 6
+2021-11-14 11:26:50.388 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass 
+                                    Expected: 1
+                                    Got: 1.5
+2021-11-14 11:26:50.393 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
+                                    Expected: 4
+                                    Got: 0.6666666666666666
+2021-11-14 11:26:50.404 - INFO - Pass ✓... (suite-with-nested-fixture / test-add-variable): add pass
+2021-11-14 11:26:50.408 - ERROR - Fail ✗... (suite-with-nested-fixture / test-add-variable): add fail 
+                                    Expected: 3
+                                    Got: 2
+2021-11-14 11:26:50.418 - INFO - Pass ✓... (suite-with-nested-fixture / test-mul-variable): mul pass
+2021-11-14 11:26:50.422 - ERROR - Fail ✗... (suite-with-nested-fixture / test-mul-variable): mul fail 
+                                    Expected: 4
+                                    Got: 1
+2021-11-14 11:26:50.422 - DEBUG - (nested-suites-with-nested-fixtures): Test Summary → Total: 12    Pass: 4    Fail: 8

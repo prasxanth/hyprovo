@@ -1,0 +1,7 @@
+2021-11-14 11:26:49.311 - INFO - Pass ✓...  add pass
+2021-11-14 11:26:49.314 - ERROR - Fail ✗...  sub fail 
+                                    Expected: 4
+                                    Got: -1
+2021-11-14 11:26:49.317 - ERROR - Fail ✗...  div fail 
+                                    Expected: 3
+                                    Got: 5.0
