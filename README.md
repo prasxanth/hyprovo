@@ -1,7 +1,7 @@
 # hyprovo
 **hyprovo** is a minimal (~150 LOC) testing framework for [Hy](https://github.com/hylang/hy) heavily inspired by the chapter on [Practical: Building a Unit Test Framework](https://gigamonkeys.com/book/practical-building-a-unit-test-framework.html) in [Practical Common Lisp](https://gigamonkeys.com/book/).
 
-> provo (Esperanto) <==> test (English)
+> provo (Esperanto) ⇔ test (English)
 
 ## Installation
 
