@@ -11,8 +11,9 @@
   "Macro that defines function to setup test environment. The function is declared with an optional `test-logger` argument (defaults to logging to console). The suite name is prepended to all tests within the suite."
   `(do
      (import [hyprovo.logger [console-logger]])
+     (require [hyprovo.framework :as fmwk-macros])
      (defn ~suite-name [&optional [test-logger console-logger]]
-       (setup-test-env)
+       (fmwk-macros.setup-test-env)
        (setv *test-logger* test-logger)
        (with [(*test-name* :value ~(str suite-name))]
          ~@body))))
