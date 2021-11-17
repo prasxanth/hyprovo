@@ -21,7 +21,7 @@ python3 setup.py develop --user
 See [README.ipynb](README.ipynb) for the documentation.
 
 ## Tests
-Tests are in the [tests](tests) directory. Ensure `hy` is in the executable path. Run `tests.hy` in the command line from within [tests](tests),
+Ensure `hy` is in the executable path. Run the `tests.hy` command line script from inside the [tests](tests) directory,
 
 ```bash
 ./tests.hy
