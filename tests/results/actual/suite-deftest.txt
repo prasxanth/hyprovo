@@ -1,9 +1,9 @@
-2021-11-16 09:27:35.449 - INFO - Pass ✓... (suite-deftest / test-add): add pass
-2021-11-16 09:27:35.451 - ERROR - Fail ✗... (suite-deftest / test-add): add fail 
+2021-11-23 15:07:05.809 - INFO - Pass ✓... (suite-deftest / test-add): add pass
+2021-11-23 15:07:05.811 - ERROR - Fail ✗... (suite-deftest / test-add): add fail 
                                     Expected: 4
                                     Got: 5
-2021-11-16 09:27:35.456 - INFO - Pass ✓... (suite-deftest / test-sub): sub pass
-2021-11-16 09:27:35.458 - ERROR - Fail ✗... (suite-deftest / test-sub): sub fail 
+2021-11-23 15:07:05.815 - INFO - Pass ✓... (suite-deftest / test-sub): sub pass
+2021-11-23 15:07:05.817 - ERROR - Fail ✗... (suite-deftest / test-sub): sub fail 
                                     Expected: 4
                                     Got: -1
-2021-11-16 09:27:35.458 - DEBUG - (suite-deftest): Test Summary → Total: 4    Pass: 2    Fail: 2
+2021-11-23 15:07:05.817 - DEBUG - (suite-deftest): Test Summary → Total: 4    Pass: 2    Fail: 2

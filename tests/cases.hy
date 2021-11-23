@@ -147,7 +147,7 @@
 ;;================================== fixtures ==================================
 
 (deffixture fix-a ((setv a 1 b 1)) ((del a b)))
-(deffixture fix-b ((setv a 2 b 3)) ((del a b)))
+(deffixture fix-b ((setv a 2) (setv b 3)) ((del a) (del b)))
 (deffixture fix-c ((setv a 1)) (None))
 (deffixture fix-d ((setv b 1)) (None))
 

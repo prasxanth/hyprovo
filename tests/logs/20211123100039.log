@@ -1,0 +1,47 @@
+2021-11-23 10:00:43.371 - INFO - ✓ Pass: report-result-pass - Passing output format
+2021-11-23 10:00:43.371 - INFO - ✓ Pass: report-result-pass - Return value
+2021-11-23 10:00:43.374 - INFO - ✓ Pass: report-result-fail - Failing output format
+2021-11-23 10:00:43.374 - INFO - ✓ Pass: report-result-fail - Return value
+2021-11-23 10:00:43.409 - INFO - ✓ Pass: check - Multiple passing and failing statements
+2021-11-23 10:00:43.410 - INFO - ✓ Pass: check - Return value
+2021-11-23 10:00:43.505 - INFO - ✓ Pass: combine-results - Combine results across multiple `check` statements.
+2021-11-23 10:00:43.505 - INFO - ✓ Pass: combine-results - Return value
+2021-11-23 10:00:43.588 - INFO - ✓ Pass: report-combined-results - Combine and report results across multiple `check` statements
+2021-11-23 10:00:43.588 - INFO - ✓ Pass: report-combined-results - Return value
+2021-11-23 10:00:43.597 - INFO - ✓ Pass: deftest - Report combined results in `check`
+2021-11-23 10:00:43.597 - INFO - ✓ Pass: deftest - Return value
+2021-11-23 10:00:43.620 - INFO - ✓ Pass: deftest-nested-and-check - Report combined results with nested tests and checks.
+2021-11-23 10:00:43.620 - INFO - ✓ Pass: deftest-nested-and-check - Return value
+2021-11-23 10:00:43.630 - INFO - ✓ Pass: deftest-variable-local-defs - Variables defined locally in test body.
+2021-11-23 10:00:43.630 - INFO - ✓ Pass: deftest-variable-local-defs - Return value
+2021-11-23 10:00:43.648 - INFO - ✓ Pass: with-fixture - Multiple tests with one fixture.
+2021-11-23 10:00:43.648 - INFO - ✓ Pass: with-fixture - Return value
+2021-11-23 10:00:43.664 - INFO - ✓ Pass: nested-with-fixture - Multiple tests with nested fixtures.
+2021-11-23 10:00:43.664 - INFO - ✓ Pass: nested-with-fixture - Return value
+2021-11-23 10:00:43.698 - INFO - ✓ Pass: with-fixtures - Multiple tests using multiple fixtures.
+2021-11-23 10:00:43.698 - INFO - ✓ Pass: with-fixtures - Return value
+2021-11-23 10:00:43.776 - INFO - ✓ Pass: nested-with-fixtures - Multiple tests using multiple nested fixtures.
+2021-11-23 10:00:43.776 - INFO - ✓ Pass: nested-with-fixtures - Return value
+2021-11-23 10:00:43.806 - INFO - ✓ Pass: deftest-with-fixture - deftest with fixture and tests.
+2021-11-23 10:00:43.806 - INFO - ✓ Pass: deftest-with-fixture - Return value
+2021-11-23 10:00:43.825 - INFO - ✓ Pass: deftest-local-defs-with-fixture - Values of local variables when defined within deftest should be used instead of those in the fixture.
+2021-11-23 10:00:43.825 - INFO - ✓ Pass: deftest-local-defs-with-fixture - Return value
+2021-11-23 10:00:43.842 - INFO - ✓ Pass: deftest-partial-local-defs-with-fixture - Values of local variables defined within deftest should be used. Variable definitions missing should be taken from those defined in the fixture.
+2021-11-23 10:00:43.842 - INFO - ✓ Pass: deftest-partial-local-defs-with-fixture - Return value
+2021-11-23 10:00:43.852 - INFO - ✓ Pass: suite-check - Report combined results in suite with checks.
+2021-11-23 10:00:43.852 - INFO - ✓ Pass: suite-check - Return value
+2021-11-23 10:00:43.868 - INFO - ✓ Pass: suite-deftest - Report combined results in suite with deftests.
+2021-11-23 10:00:43.868 - INFO - ✓ Pass: suite-deftest - Return value
+2021-11-23 10:00:43.906 - INFO - ✓ Pass: suite-nested-deftests - Report combined results in suite with nested deftests.
+2021-11-23 10:00:43.906 - INFO - ✓ Pass: suite-nested-deftests - Return value
+2021-11-23 10:00:43.976 - INFO - ✓ Pass: nested-suites - Report combined results in suite with nested suites.
+2021-11-23 10:00:43.976 - INFO - ✓ Pass: nested-suites - Return value
+2021-11-23 10:00:44.014 - INFO - ✓ Pass: suite-with-fixture-in-deftest - deftest in suite containing a fixture.
+2021-11-23 10:00:44.014 - INFO - ✓ Pass: suite-with-fixture-in-deftest - Return value
+2021-11-23 10:00:44.056 - INFO - ✓ Pass: suite-with-fixtures - Suite with multiple fixtures for multiple tests.
+2021-11-23 10:00:44.056 - INFO - ✓ Pass: suite-with-fixtures - Return value
+2021-11-23 10:00:44.078 - INFO - ✓ Pass: suite-with-nested-fixture - Suite with nested fixtures running multiple tests.
+2021-11-23 10:00:44.078 - INFO - ✓ Pass: suite-with-nested-fixture - Return value
+2021-11-23 10:00:44.133 - INFO - ✓ Pass: nested-suites-with-nested-fixtures - Suite with nested suites and nested fixtures.
+2021-11-23 10:00:44.134 - INFO - ✓ Pass: nested-suites-with-nested-fixtures - Return value
+2021-11-23 10:00:44.134 - DEBUG - All 46 tests PASSED

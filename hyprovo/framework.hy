@@ -44,8 +44,8 @@
                        &optional [setup None] [teardown None]]
   "Macro to define a test fixture. A test fixture consists of setup and teardown statements that are then applied to given test cases."
   `(defmacro ~fixture-name [&optional [env "setup"]]
-     (when (= env "setup") (return '~@setup))
-     (when (= env "teardown") (return '~@teardown))))
+     (when (= env "setup") (return '(do ~@setup)))
+     (when (= env "teardown") (return '(do ~@teardown)))))
 
 (defmacro setup-test-env []
   "Sets up test environment. Import macros and packages. Initialize *test-name* variable. This macro should be called at the start, before defining and running any test cases. Remember to call 'teardown-test-env' at the end."

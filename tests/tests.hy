@@ -89,6 +89,12 @@
                           (, 4 2 2)
                           "Multiple tests with one fixture.")
 
+(add-to-test-plan/result= "with-fixture-multiple-statements"
+                          (▶ (with-fixture fix-b
+                               (▶ (test-add-variable) (test-sub-variable))))
+                          (, 4 1 3)
+                          "Tests with fixture containing multiple statements in setup and teardown.")
+
 (add-to-test-plan/result= "nested-with-fixture"
                           (▶ (with-fixture fix-c
                                (▶ (with-fixture fix-d
