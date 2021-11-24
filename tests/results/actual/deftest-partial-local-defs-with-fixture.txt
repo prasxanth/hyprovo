@@ -1,9 +1,9 @@
-2021-11-23 15:07:05.786 - INFO - Pass ✓... (deftest-partial-local-defs-with-fixture / test-sub-variable-partial-local-defs): add pass
-2021-11-23 15:07:05.788 - ERROR - Fail ✗... (deftest-partial-local-defs-with-fixture / test-sub-variable-partial-local-defs): add fail 
+2021-11-24 13:52:30.331 - INFO - Pass ✓... (deftest-partial-local-defs-with-fixture / test-sub-variable-partial-local-defs): add pass
+2021-11-24 13:52:30.334 - ERROR - Fail ✗... (deftest-partial-local-defs-with-fixture / test-sub-variable-partial-local-defs): add fail 
                                     Expected: -19
                                     Got: -3
-2021-11-23 15:07:05.792 - INFO - Pass ✓... (deftest-partial-local-defs-with-fixture / test-mul-variable-partial-local-defs): mul pass
-2021-11-23 15:07:05.794 - ERROR - Fail ✗... (deftest-partial-local-defs-with-fixture / test-mul-variable-partial-local-defs): mul fail 
+2021-11-24 13:52:30.339 - INFO - Pass ✓... (deftest-partial-local-defs-with-fixture / test-mul-variable-partial-local-defs): mul pass
+2021-11-24 13:52:30.341 - ERROR - Fail ✗... (deftest-partial-local-defs-with-fixture / test-mul-variable-partial-local-defs): mul fail 
                                     Expected: -3
                                     Got: 2
-2021-11-23 15:07:05.794 - DEBUG - (deftest-partial-local-defs-with-fixture): Test Summary → Total: 4    Pass: 2    Fail: 2
+2021-11-24 13:52:30.341 - DEBUG - (deftest-partial-local-defs-with-fixture): Test Summary → Total: 4    Pass: 2    Fail: 2

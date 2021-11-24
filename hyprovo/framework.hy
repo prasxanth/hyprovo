@@ -175,14 +175,9 @@
        (except [AttributeError]
          (setv ~g!test-name% "")))
 
-     (setv ~g!indent% (* " " 36))
      (if ~g!result%
          (->> (.format "Pass ✓... {} {}" ~g!test-name% ~description) (.info *test-logger*))
-         (->> (.format "Fail ✗... {} {} \n{}Expected: {}\n{}Got: {}"
-                       ~g!test-name% ~description ~g!indent%
-                       (fmwk-macros.stringify ~expected) ~g!indent%
-                       (fmwk-macros.stringify ~expr))
-              (.error *test-logger*)))
+         (->> (.format "Fail ✗... {} {}" ~g!test-name% ~description) (.error *test-logger*)))
 
      ~g!result%))
 

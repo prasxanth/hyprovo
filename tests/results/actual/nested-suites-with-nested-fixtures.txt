@@ -1,29 +1,29 @@
-2021-11-23 15:07:05.992 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
-2021-11-23 15:07:05.994 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
+2021-11-24 13:52:30.560 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
+2021-11-24 13:52:30.563 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
                                     Expected: 4
                                     Got: 1
-2021-11-23 15:07:05.998 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
-2021-11-23 15:07:06.001 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
+2021-11-24 13:52:30.567 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
+2021-11-24 13:52:30.570 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
                                     Expected: 4
                                     Got: 1.0
-2021-11-23 15:07:06.006 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass 
+2021-11-24 13:52:30.574 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass 
                                     Expected: 1
                                     Got: 6
-2021-11-23 15:07:06.008 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
+2021-11-24 13:52:30.577 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
                                     Expected: 4
                                     Got: 6
-2021-11-23 15:07:06.013 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass 
+2021-11-24 13:52:30.581 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass 
                                     Expected: 1
                                     Got: 1.5
-2021-11-23 15:07:06.015 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
+2021-11-24 13:52:30.583 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
                                     Expected: 4
                                     Got: 0.6666666666666666
-2021-11-23 15:07:06.021 - INFO - Pass ✓... (suite-with-nested-fixture / test-add-variable): add pass
-2021-11-23 15:07:06.023 - ERROR - Fail ✗... (suite-with-nested-fixture / test-add-variable): add fail 
+2021-11-24 13:52:30.590 - INFO - Pass ✓... (suite-with-nested-fixture / test-add-variable): add pass
+2021-11-24 13:52:30.592 - ERROR - Fail ✗... (suite-with-nested-fixture / test-add-variable): add fail 
                                     Expected: 3
                                     Got: 2
-2021-11-23 15:07:06.027 - INFO - Pass ✓... (suite-with-nested-fixture / test-mul-variable): mul pass
-2021-11-23 15:07:06.030 - ERROR - Fail ✗... (suite-with-nested-fixture / test-mul-variable): mul fail 
+2021-11-24 13:52:30.597 - INFO - Pass ✓... (suite-with-nested-fixture / test-mul-variable): mul pass
+2021-11-24 13:52:30.600 - ERROR - Fail ✗... (suite-with-nested-fixture / test-mul-variable): mul fail 
                                     Expected: 4
                                     Got: 1
-2021-11-23 15:07:06.030 - DEBUG - (nested-suites-with-nested-fixtures): Test Summary → Total: 12    Pass: 4    Fail: 8
+2021-11-24 13:52:30.600 - DEBUG - (nested-suites-with-nested-fixtures): Test Summary → Total: 12    Pass: 4    Fail: 8

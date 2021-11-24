@@ -1,8 +1,8 @@
-2021-11-14 11:26:49.969 - INFO - Pass ✓... (suite-check): add pass
-2021-11-14 11:26:49.972 - ERROR - Fail ✗... (suite-check): sub fail 
+2021-11-24 12:39:44.524 - INFO - Pass ✓... (suite-check): add pass
+2021-11-24 12:39:44.527 - ERROR - Fail ✗... (suite-check): sub fail 
                                     Expected: 4
                                     Got: -1
-2021-11-14 11:26:49.974 - ERROR - Fail ✗... (suite-check): div fail 
+2021-11-24 12:39:44.530 - ERROR - Fail ✗... (suite-check): div fail 
                                     Expected: 3
                                     Got: 5.0
-2021-11-14 11:26:49.975 - DEBUG - (suite-check): Test Summary → Total: 3    Pass: 1    Fail: 2
+2021-11-24 12:39:44.530 - DEBUG - (suite-check): Test Summary → Total: 3    Pass: 1    Fail: 2

@@ -3,22 +3,22 @@
 ;;=========================== MACROS AND IMPORTS ===============================
 
 (require [hyprovo.framework [setup-test-env
-                                 teardown-test-env
-                                 report-result
-                                 check
-                                 report-combined-results
-                                 deffixture
-                                 with-fixture
-                                 with-fixtures
-                                 deftest
-                                 defsuite]])
+                             teardown-test-env
+                             report-result
+                             check
+                             report-combined-results
+                             deffixture
+                             with-fixture
+                             with-fixtures
+                             deftest
+                             defsuite]])
 
 (import [hyprovo.framework [combine-results run-tests ▶]])
 
 (import [hyprovo.logger [null-logger
-                             console-logger
-                             file-logger
-                             console-and-file-logger]])
+                         console-logger
+                         file-logger
+                         console-and-file-logger]])
 
 (require [hy.extra.anaphoric [*]])
 
