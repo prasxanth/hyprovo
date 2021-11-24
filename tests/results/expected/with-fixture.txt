@@ -1,8 +1,4 @@
-2021-11-24 12:39:44.283 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 12:39:44.285 - ERROR - Fail ✗... (test-add-variable): add fail 
-                                    Expected: 3
-                                    Got: 2
-2021-11-24 12:39:44.289 - INFO - Pass ✓... (test-sub-variable): sub pass
-2021-11-24 12:39:44.291 - ERROR - Fail ✗... (test-sub-variable): sub fail 
-                                    Expected: 4
-                                    Got: 0
+2021-11-24 14:10:30.850 - INFO - Pass ✓... (test-add-variable): add pass
+2021-11-24 14:10:30.852 - ERROR - Fail ✗... (test-add-variable): add fail
+2021-11-24 14:10:30.856 - INFO - Pass ✓... (test-sub-variable): sub pass
+2021-11-24 14:10:30.858 - ERROR - Fail ✗... (test-sub-variable): sub fail

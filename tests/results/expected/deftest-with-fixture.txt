@@ -1,17 +1,9 @@
-2021-11-24 12:39:44.441 - INFO - Pass ✓... (deftest-with-fixture / test-add-variable): add pass
-2021-11-24 12:39:44.444 - ERROR - Fail ✗... (deftest-with-fixture / test-add-variable): add fail 
-                                    Expected: 3
-                                    Got: 2
-2021-11-24 12:39:44.449 - INFO - Pass ✓... (deftest-with-fixture / test-sub-variable): sub pass
-2021-11-24 12:39:44.451 - ERROR - Fail ✗... (deftest-with-fixture / test-sub-variable): sub fail 
-                                    Expected: 4
-                                    Got: 0
-2021-11-24 12:39:44.455 - INFO - Pass ✓... (deftest-with-fixture / test-mul): mul pass
-2021-11-24 12:39:44.457 - ERROR - Fail ✗... (deftest-with-fixture / test-mul): mul fail 
-                                    Expected: 4
-                                    Got: 6
-2021-11-24 12:39:44.462 - INFO - Pass ✓... (deftest-with-fixture / test-div): div pass
-2021-11-24 12:39:44.465 - ERROR - Fail ✗... (deftest-with-fixture / test-div): div fail 
-                                    Expected: 4
-                                    Got: 0.6666666666666666
-2021-11-24 12:39:44.465 - DEBUG - (deftest-with-fixture): Test Summary → Total: 8    Pass: 4    Fail: 4
+2021-11-24 14:10:30.991 - INFO - Pass ✓... (deftest-with-fixture / test-add-variable): add pass
+2021-11-24 14:10:30.993 - ERROR - Fail ✗... (deftest-with-fixture / test-add-variable): add fail
+2021-11-24 14:10:30.997 - INFO - Pass ✓... (deftest-with-fixture / test-sub-variable): sub pass
+2021-11-24 14:10:30.999 - ERROR - Fail ✗... (deftest-with-fixture / test-sub-variable): sub fail
+2021-11-24 14:10:31.003 - INFO - Pass ✓... (deftest-with-fixture / test-mul): mul pass
+2021-11-24 14:10:31.005 - ERROR - Fail ✗... (deftest-with-fixture / test-mul): mul fail
+2021-11-24 14:10:31.009 - INFO - Pass ✓... (deftest-with-fixture / test-div): div pass
+2021-11-24 14:10:31.011 - ERROR - Fail ✗... (deftest-with-fixture / test-div): div fail
+2021-11-24 14:10:31.011 - DEBUG - (deftest-with-fixture): Test Summary → Total: 8    Pass: 4    Fail: 4

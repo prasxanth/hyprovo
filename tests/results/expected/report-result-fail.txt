@@ -1,3 +1,1 @@
-2021-11-24 12:44:14.530 - ERROR - Fail ✗...  Failing result 
-                                    Expected: 5
-                                    Got: 3
+2021-11-24 14:10:30.668 - ERROR - Fail ✗...  Failing result

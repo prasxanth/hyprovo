@@ -1,7 +1,7 @@
-2021-11-24 13:52:30.064 - INFO - Pass ✓...  add pass
-2021-11-24 13:52:30.067 - ERROR - Fail ✗...  sub fail
-2021-11-24 13:52:30.071 - INFO - Pass ✓...  mul pass
-2021-11-24 13:52:30.077 - INFO - Pass ✓...  div pass
-2021-11-24 13:52:30.080 - ERROR - Fail ✗...  add fail
-2021-11-24 13:52:30.083 - ERROR - Fail ✗...  mul fail
-2021-11-24 13:52:30.083 - DEBUG -  Test Summary → Total: 6    Pass: 3    Fail: 3
+2021-11-24 14:41:21.302 - INFO - Pass ✓...  add pass
+2021-11-24 14:41:21.306 - ERROR - Fail ✗...  sub fail
+2021-11-24 14:41:21.308 - INFO - Pass ✓...  mul pass
+2021-11-24 14:41:21.314 - INFO - Pass ✓...  div pass
+2021-11-24 14:41:21.317 - ERROR - Fail ✗...  add fail
+2021-11-24 14:41:21.319 - ERROR - Fail ✗...  mul fail
+2021-11-24 14:41:21.320 - DEBUG -  Test Summary → Total: 6    Pass: 3    Fail: 3

@@ -1,32 +1,16 @@
-2021-11-24 13:52:30.219 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 13:52:30.222 - ERROR - Fail ✗... (test-add-variable): add fail 
-                                    Expected: 3
-                                    Got: 2
-2021-11-24 13:52:30.227 - INFO - Pass ✓... (test-sub-variable): sub pass
-2021-11-24 13:52:30.229 - ERROR - Fail ✗... (test-sub-variable): sub fail 
-                                    Expected: 4
-                                    Got: 0
-2021-11-24 13:52:30.235 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 13:52:30.237 - ERROR - Fail ✗... (test-add-variable): add fail 
-                                    Expected: 3
-                                    Got: 2
-2021-11-24 13:52:30.242 - INFO - Pass ✓... (test-sub-variable): sub pass
-2021-11-24 13:52:30.245 - ERROR - Fail ✗... (test-sub-variable): sub fail 
-                                    Expected: 4
-                                    Got: 0
-2021-11-24 13:52:30.252 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 13:52:30.254 - ERROR - Fail ✗... (test-add-variable): add fail 
-                                    Expected: 3
-                                    Got: 2
-2021-11-24 13:52:30.259 - INFO - Pass ✓... (test-sub-variable): sub pass
-2021-11-24 13:52:30.261 - ERROR - Fail ✗... (test-sub-variable): sub fail 
-                                    Expected: 4
-                                    Got: 0
-2021-11-24 13:52:30.266 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 13:52:30.268 - ERROR - Fail ✗... (test-add-variable): add fail 
-                                    Expected: 3
-                                    Got: 2
-2021-11-24 13:52:30.273 - INFO - Pass ✓... (test-sub-variable): sub pass
-2021-11-24 13:52:30.275 - ERROR - Fail ✗... (test-sub-variable): sub fail 
-                                    Expected: 4
-                                    Got: 0
+2021-11-24 14:41:21.449 - INFO - Pass ✓... (test-add-variable): add pass
+2021-11-24 14:41:21.452 - ERROR - Fail ✗... (test-add-variable): add fail
+2021-11-24 14:41:21.456 - INFO - Pass ✓... (test-sub-variable): sub pass
+2021-11-24 14:41:21.458 - ERROR - Fail ✗... (test-sub-variable): sub fail
+2021-11-24 14:41:21.463 - INFO - Pass ✓... (test-add-variable): add pass
+2021-11-24 14:41:21.465 - ERROR - Fail ✗... (test-add-variable): add fail
+2021-11-24 14:41:21.470 - INFO - Pass ✓... (test-sub-variable): sub pass
+2021-11-24 14:41:21.472 - ERROR - Fail ✗... (test-sub-variable): sub fail
+2021-11-24 14:41:21.481 - INFO - Pass ✓... (test-add-variable): add pass
+2021-11-24 14:41:21.484 - ERROR - Fail ✗... (test-add-variable): add fail
+2021-11-24 14:41:21.490 - INFO - Pass ✓... (test-sub-variable): sub pass
+2021-11-24 14:41:21.493 - ERROR - Fail ✗... (test-sub-variable): sub fail
+2021-11-24 14:41:21.499 - INFO - Pass ✓... (test-add-variable): add pass
+2021-11-24 14:41:21.501 - ERROR - Fail ✗... (test-add-variable): add fail
+2021-11-24 14:41:21.506 - INFO - Pass ✓... (test-sub-variable): sub pass
+2021-11-24 14:41:21.509 - ERROR - Fail ✗... (test-sub-variable): sub fail

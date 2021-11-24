@@ -1,20 +1,20 @@
-2021-11-24 12:39:44.726 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
-2021-11-24 12:39:44.730 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
+2021-11-24 14:10:31.179 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
+2021-11-24 14:10:31.181 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
                                     Expected: 4
                                     Got: 1
-2021-11-24 12:39:44.735 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
-2021-11-24 12:39:44.738 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
+2021-11-24 14:10:31.185 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
+2021-11-24 14:10:31.187 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
                                     Expected: 4
                                     Got: 1.0
-2021-11-24 12:39:44.743 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass 
+2021-11-24 14:10:31.191 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass 
                                     Expected: 1
                                     Got: 6
-2021-11-24 12:39:44.746 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
+2021-11-24 14:10:31.194 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
                                     Expected: 4
                                     Got: 6
-2021-11-24 12:39:44.751 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass 
+2021-11-24 14:10:31.199 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass 
                                     Expected: 1
                                     Got: 1.5
-2021-11-24 12:39:44.754 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
+2021-11-24 14:10:31.202 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
                                     Expected: 4
                                     Got: 0.6666666666666666
