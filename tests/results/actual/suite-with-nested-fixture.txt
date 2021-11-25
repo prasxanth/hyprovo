@@ -1,8 +1,4 @@
-2021-11-24 14:33:17.079 - INFO - Pass ✓... (suite-with-nested-fixture / test-add-variable): add pass
-2021-11-24 14:33:17.082 - ERROR - Fail ✗... (suite-with-nested-fixture / test-add-variable): add fail 
-                                    Expected: 3
-                                    Got: 2
-2021-11-24 14:33:17.087 - INFO - Pass ✓... (suite-with-nested-fixture / test-mul-variable): mul pass
-2021-11-24 14:33:17.090 - ERROR - Fail ✗... (suite-with-nested-fixture / test-mul-variable): mul fail 
-                                    Expected: 4
-                                    Got: 1
+2021-11-24 17:25:52.296 - INFO - Pass ✓... (suite-with-nested-fixture / test-add-variable): add pass
+2021-11-24 17:25:52.298 - ERROR - Fail ✗... (suite-with-nested-fixture / test-add-variable): add fail
+2021-11-24 17:25:52.304 - INFO - Pass ✓... (suite-with-nested-fixture / test-mul-variable): mul pass
+2021-11-24 17:25:52.307 - ERROR - Fail ✗... (suite-with-nested-fixture / test-mul-variable): mul fail

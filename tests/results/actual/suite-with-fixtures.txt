@@ -1,20 +1,8 @@
-2021-11-24 14:33:17.046 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
-2021-11-24 14:33:17.049 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
-                                    Expected: 4
-                                    Got: 1
-2021-11-24 14:33:17.055 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
-2021-11-24 14:33:17.058 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
-                                    Expected: 4
-                                    Got: 1.0
-2021-11-24 14:33:17.063 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass 
-                                    Expected: 1
-                                    Got: 6
-2021-11-24 14:33:17.065 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail 
-                                    Expected: 4
-                                    Got: 6
-2021-11-24 14:33:17.070 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass 
-                                    Expected: 1
-                                    Got: 1.5
-2021-11-24 14:33:17.072 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail 
-                                    Expected: 4
-                                    Got: 0.6666666666666666
+2021-11-24 17:25:52.262 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
+2021-11-24 17:25:52.265 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
+2021-11-24 17:25:52.271 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
+2021-11-24 17:25:52.274 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail
+2021-11-24 17:25:52.279 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass
+2021-11-24 17:25:52.281 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
+2021-11-24 17:25:52.286 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass
+2021-11-24 17:25:52.289 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail

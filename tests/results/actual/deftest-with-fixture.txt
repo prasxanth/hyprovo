@@ -1,9 +1,9 @@
-2021-11-24 14:41:21.516 - INFO - Pass ✓... (deftest-with-fixture / test-add-variable): add pass
-2021-11-24 14:41:21.518 - ERROR - Fail ✗... (deftest-with-fixture / test-add-variable): add fail
-2021-11-24 14:41:21.523 - INFO - Pass ✓... (deftest-with-fixture / test-sub-variable): sub pass
-2021-11-24 14:41:21.525 - ERROR - Fail ✗... (deftest-with-fixture / test-sub-variable): sub fail
-2021-11-24 14:41:21.529 - INFO - Pass ✓... (deftest-with-fixture / test-mul): mul pass
-2021-11-24 14:41:21.532 - ERROR - Fail ✗... (deftest-with-fixture / test-mul): mul fail
-2021-11-24 14:41:21.537 - INFO - Pass ✓... (deftest-with-fixture / test-div): div pass
-2021-11-24 14:41:21.539 - ERROR - Fail ✗... (deftest-with-fixture / test-div): div fail
-2021-11-24 14:41:21.539 - DEBUG - (deftest-with-fixture): Test Summary → Total: 8    Pass: 4    Fail: 4
+2021-11-24 17:25:52.029 - INFO - Pass ✓... (deftest-with-fixture / test-add-variable): add pass
+2021-11-24 17:25:52.031 - ERROR - Fail ✗... (deftest-with-fixture / test-add-variable): add fail
+2021-11-24 17:25:52.036 - INFO - Pass ✓... (deftest-with-fixture / test-sub-variable): sub pass
+2021-11-24 17:25:52.039 - ERROR - Fail ✗... (deftest-with-fixture / test-sub-variable): sub fail
+2021-11-24 17:25:52.043 - INFO - Pass ✓... (deftest-with-fixture / test-mul): mul pass
+2021-11-24 17:25:52.045 - ERROR - Fail ✗... (deftest-with-fixture / test-mul): mul fail
+2021-11-24 17:25:52.049 - INFO - Pass ✓... (deftest-with-fixture / test-div): div pass
+2021-11-24 17:25:52.051 - ERROR - Fail ✗... (deftest-with-fixture / test-div): div fail
+2021-11-24 17:25:52.052 - DEBUG - (deftest-with-fixture): Test Summary → Total: 8    Pass: 4    Fail: 4

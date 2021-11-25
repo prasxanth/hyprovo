@@ -1,5 +1,5 @@
-2021-11-24 14:41:21.547 - INFO - Pass ✓... (deftest-local-defs-with-fixture / test-add-variable-local-defs): add pass
-2021-11-24 14:41:21.550 - ERROR - Fail ✗... (deftest-local-defs-with-fixture / test-add-variable-local-defs): add fail
-2021-11-24 14:41:21.555 - INFO - Pass ✓... (deftest-local-defs-with-fixture / test-div-variable): div pass
-2021-11-24 14:41:21.558 - ERROR - Fail ✗... (deftest-local-defs-with-fixture / test-div-variable): div fail
-2021-11-24 14:41:21.558 - DEBUG - (deftest-local-defs-with-fixture): Test Summary → Total: 4    Pass: 2    Fail: 2
+2021-11-24 17:25:52.059 - INFO - Pass ✓... (deftest-local-defs-with-fixture / test-add-variable-local-defs): add pass
+2021-11-24 17:25:52.061 - ERROR - Fail ✗... (deftest-local-defs-with-fixture / test-add-variable-local-defs): add fail
+2021-11-24 17:25:52.066 - INFO - Pass ✓... (deftest-local-defs-with-fixture / test-div-variable): div pass
+2021-11-24 17:25:52.069 - ERROR - Fail ✗... (deftest-local-defs-with-fixture / test-div-variable): div fail
+2021-11-24 17:25:52.069 - DEBUG - (deftest-local-defs-with-fixture): Test Summary → Total: 4    Pass: 2    Fail: 2

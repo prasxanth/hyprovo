@@ -1,4 +1,4 @@
-2021-11-24 14:10:30.882 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 14:10:30.884 - ERROR - Fail ✗... (test-add-variable): add fail
-2021-11-24 14:10:30.889 - INFO - Pass ✓... (test-mul-variable): mul pass
-2021-11-24 14:10:30.892 - ERROR - Fail ✗... (test-mul-variable): mul fail
+2021-11-24 17:24:55.472 - INFO - Pass ✓... (test-add-variable): add pass
+2021-11-24 17:24:55.474 - ERROR - Fail ✗... (test-add-variable): add fail
+2021-11-24 17:24:55.479 - INFO - Pass ✓... (test-mul-variable): mul pass
+2021-11-24 17:24:55.481 - ERROR - Fail ✗... (test-mul-variable): mul fail

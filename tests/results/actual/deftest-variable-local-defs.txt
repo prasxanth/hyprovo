@@ -1,2 +1,2 @@
-2021-11-24 14:41:21.360 - INFO - Pass ✓... (test-sub-variable-local-defs): sub pass
-2021-11-24 14:41:21.363 - ERROR - Fail ✗... (test-sub-variable-local-defs): sub fail
+2021-11-24 17:25:51.843 - INFO - Pass ✓... (test-sub-variable-local-defs): sub pass
+2021-11-24 17:25:51.845 - ERROR - Fail ✗... (test-sub-variable-local-defs): sub fail
