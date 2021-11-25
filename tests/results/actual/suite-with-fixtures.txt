@@ -1,8 +1,8 @@
-2021-11-24 17:25:52.262 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
-2021-11-24 17:25:52.265 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
-2021-11-24 17:25:52.271 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
-2021-11-24 17:25:52.274 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail
-2021-11-24 17:25:52.279 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass
-2021-11-24 17:25:52.281 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
-2021-11-24 17:25:52.286 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass
-2021-11-24 17:25:52.289 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail
+2021-11-24 17:30:30.641 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
+2021-11-24 17:30:30.644 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
+2021-11-24 17:30:30.649 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
+2021-11-24 17:30:30.652 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail
+2021-11-24 17:30:30.657 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass
+2021-11-24 17:30:30.659 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
+2021-11-24 17:30:30.664 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass
+2021-11-24 17:30:30.667 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail

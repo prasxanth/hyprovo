@@ -1,8 +1,8 @@
-2021-11-24 17:25:51.915 - INFO - Pass ✓... (test-mul-variable): mul pass
-2021-11-24 17:25:51.917 - ERROR - Fail ✗... (test-mul-variable): mul fail
-2021-11-24 17:25:51.923 - INFO - Pass ✓... (test-div-variable): div pass
-2021-11-24 17:25:51.925 - ERROR - Fail ✗... (test-div-variable): div fail
-2021-11-24 17:25:51.929 - ERROR - Fail ✗... (test-mul-variable): mul pass
-2021-11-24 17:25:51.932 - ERROR - Fail ✗... (test-mul-variable): mul fail
-2021-11-24 17:25:51.937 - ERROR - Fail ✗... (test-div-variable): div pass
-2021-11-24 17:25:51.940 - ERROR - Fail ✗... (test-div-variable): div fail
+2021-11-24 17:30:30.267 - INFO - Pass ✓... (test-mul-variable): mul pass
+2021-11-24 17:30:30.270 - ERROR - Fail ✗... (test-mul-variable): mul fail
+2021-11-24 17:30:30.275 - INFO - Pass ✓... (test-div-variable): div pass
+2021-11-24 17:30:30.277 - ERROR - Fail ✗... (test-div-variable): div fail
+2021-11-24 17:30:30.283 - ERROR - Fail ✗... (test-mul-variable): mul pass
+2021-11-24 17:30:30.286 - ERROR - Fail ✗... (test-mul-variable): mul fail
+2021-11-24 17:30:30.291 - ERROR - Fail ✗... (test-div-variable): div pass
+2021-11-24 17:30:30.293 - ERROR - Fail ✗... (test-div-variable): div fail

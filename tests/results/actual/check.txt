@@ -1,3 +1,3 @@
-2021-11-24 17:25:51.641 - INFO - Pass ✓...  add pass
-2021-11-24 17:25:51.645 - ERROR - Fail ✗...  sub fail
-2021-11-24 17:25:51.648 - ERROR - Fail ✗...  div fail
+2021-11-24 17:30:29.983 - INFO - Pass ✓...  add pass
+2021-11-24 17:30:29.985 - ERROR - Fail ✗...  sub fail
+2021-11-24 17:30:29.989 - ERROR - Fail ✗...  div fail

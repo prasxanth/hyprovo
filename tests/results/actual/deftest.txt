@@ -1,3 +1,3 @@
-2021-11-24 17:25:51.806 - INFO - Pass ✓... (test-add-report-combined-results): add pass
-2021-11-24 17:25:51.808 - ERROR - Fail ✗... (test-add-report-combined-results): add fail
-2021-11-24 17:25:51.809 - DEBUG - (test-add-report-combined-results): Test Summary → Total: 2    Pass: 1    Fail: 1
+2021-11-24 17:30:30.163 - INFO - Pass ✓... (test-add-report-combined-results): add pass
+2021-11-24 17:30:30.166 - ERROR - Fail ✗... (test-add-report-combined-results): add fail
+2021-11-24 17:30:30.166 - DEBUG - (test-add-report-combined-results): Test Summary → Total: 2    Pass: 1    Fail: 1
