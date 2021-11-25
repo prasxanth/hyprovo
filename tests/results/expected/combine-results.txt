@@ -1,6 +1,6 @@
-2021-11-24 17:24:55.289 - INFO - Pass ✓...  add pass
-2021-11-24 17:24:55.292 - ERROR - Fail ✗...  sub fail
-2021-11-24 17:24:55.296 - INFO - Pass ✓...  mul pass
-2021-11-24 17:24:55.302 - INFO - Pass ✓...  div pass
-2021-11-24 17:24:55.306 - ERROR - Fail ✗...  add fail
-2021-11-24 17:24:55.308 - ERROR - Fail ✗...  mul fail
+2021-11-24 22:50:31.174 - INFO - Pass ✓...  add pass
+2021-11-24 22:50:31.177 - ERROR - Fail ✗...  sub fail
+2021-11-24 22:50:31.180 - INFO - Pass ✓...  mul pass
+2021-11-24 22:50:31.185 - INFO - Pass ✓...  div pass
+2021-11-24 22:50:31.189 - ERROR - Fail ✗...  add fail
+2021-11-24 22:50:31.191 - ERROR - Fail ✗...  mul fail

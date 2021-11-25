@@ -1,13 +1,13 @@
-2021-11-24 17:24:55.917 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
-2021-11-24 17:24:55.920 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
-2021-11-24 17:24:55.926 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
-2021-11-24 17:24:55.929 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail
-2021-11-24 17:24:55.935 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass
-2021-11-24 17:24:55.937 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
-2021-11-24 17:24:55.942 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass
-2021-11-24 17:24:55.945 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail
-2021-11-24 17:24:55.953 - INFO - Pass ✓... (suite-with-nested-fixture / test-add-variable): add pass
-2021-11-24 17:24:55.956 - ERROR - Fail ✗... (suite-with-nested-fixture / test-add-variable): add fail
-2021-11-24 17:24:55.961 - INFO - Pass ✓... (suite-with-nested-fixture / test-mul-variable): mul pass
-2021-11-24 17:24:55.964 - ERROR - Fail ✗... (suite-with-nested-fixture / test-mul-variable): mul fail
-2021-11-24 17:24:55.964 - DEBUG - (nested-suites-with-nested-fixtures): Test Summary → Total: 12    Pass: 4    Fail: 8
+2021-11-24 22:50:31.744 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): product should be 1
+2021-11-24 22:50:31.748 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): product should be 4
+2021-11-24 22:50:31.754 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): ratio should be 1
+2021-11-24 22:50:31.757 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): ratio should be 4
+2021-11-24 22:50:31.763 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): product should be 1
+2021-11-24 22:50:31.765 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): product should be 4
+2021-11-24 22:50:31.770 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): ratio should be 1
+2021-11-24 22:50:31.772 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): ratio should be 4
+2021-11-24 22:50:31.781 - INFO - Pass ✓... (suite-with-nested-fixture / test-add-variable): sum should be 2
+2021-11-24 22:50:31.784 - ERROR - Fail ✗... (suite-with-nested-fixture / test-add-variable): sum should be 3
+2021-11-24 22:50:31.790 - INFO - Pass ✓... (suite-with-nested-fixture / test-mul-variable): product should be 1
+2021-11-24 22:50:31.792 - ERROR - Fail ✗... (suite-with-nested-fixture / test-mul-variable): product should be 4
+2021-11-24 22:50:31.793 - DEBUG - (nested-suites-with-nested-fixtures): Test Summary → Total: 12    Pass: 4    Fail: 8

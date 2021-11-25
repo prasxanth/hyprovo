@@ -46,8 +46,8 @@
 
 (deftest test-add-variable
   (check
-    (= (+ a b) 2 "add pass")
-    (= (+ a b) 3 "add fail")))
+    (= (+ a b) 2 "sum should be 2")
+    (= (+ a b) 3 "sum should be 3")))
 
 (deftest test-add-variable-local-defs
   (setv a 5 b 10)
@@ -58,8 +58,8 @@
 (deftest test-add-variable-partial-local-defs
   (setv c 1)
   (check
-    (= (+ a b c) 3 "add pass")
-    (= (+ a b c) 3 "add fail")))
+    (= (+ a b c) 3 "sum should be 3")
+    (= (+ a b c) -1 "sum should be -1")))
 
 (deftest test-sub
   (check
@@ -68,8 +68,8 @@
 
 (deftest test-sub-variable
   (check
-    (= (- a a) 0 "sub pass")
-    (= (- a b) 4 "sub fail")))
+    (= (- a a) 0 "difference should be 0")
+    (= (- a b) 4 "difference should be 4")))
 
 (deftest test-sub-variable-local-defs
   (setv a 8 b 10)
@@ -80,8 +80,8 @@
 (deftest test-sub-variable-partial-local-defs
   (setv c 3)
   (check
-    (= (- a b c) -3 "add pass")
-    (= (- a b c) -19 "add fail")))
+    (= (- a b c) -3 "difference should be -3")
+    (= (- a b c) -19 "difference should be -19")))
 
 (deftest test-mul
  (check
@@ -90,8 +90,8 @@
 
 (deftest test-mul-variable
  (check
-   (= (* a b) 1 "mul pass")
-   (= (* a b) 4 "mul fail")))
+   (= (* a b) 1 "product should be 1")
+   (= (* a b) 4 "product should be 4")))
 
 (deftest test-mul-variable-local-defs
   (setv a 2 b 7)
@@ -102,8 +102,8 @@
 (deftest test-mul-variable-partial-local-defs
   (setv c 2)
   (check
-    (= (* a b c) 2 "mul pass")
-    (= (* a b c) -3 "mul fail")))
+    (= (* a b c) 2 "product should be 2")
+    (= (* a b c) -3 "product should be -3")))
 
 (deftest test-div
   (check
@@ -112,8 +112,8 @@
 
 (deftest test-div-variable
   (check
-    (= (/ b a) 1 "div pass")
-    (= (/ a b) 4 "div fail")))
+    (= (/ b a) 1 "ratio should be 1")
+    (= (/ a b) 4 "ratio should be 4")))
 
 (deftest test-div-variable-local-defs
   (setv a 3 b 6)
@@ -124,8 +124,8 @@
 (deftest test-div-variable-partial-local-defs
   (setv c 1)
   (check
-    (= (/ b a c) 1.0 "div pass")
-    (= (/ a b c) 11.3 "div fail")))
+    (= (/ b a c) 1.0 "ratio should be 1.0")
+    (= (/ a b c) 11.3 "ratio should be 11.3")))
 
 (deftest test-arithmetic-1-report-combined-results
         (-> (combine-results

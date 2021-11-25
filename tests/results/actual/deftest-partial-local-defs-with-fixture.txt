@@ -1,5 +1,5 @@
-2021-11-24 17:30:30.435 - INFO - Pass ✓... (deftest-partial-local-defs-with-fixture / test-sub-variable-partial-local-defs): add pass
-2021-11-24 17:30:30.437 - ERROR - Fail ✗... (deftest-partial-local-defs-with-fixture / test-sub-variable-partial-local-defs): add fail
-2021-11-24 17:30:30.443 - INFO - Pass ✓... (deftest-partial-local-defs-with-fixture / test-mul-variable-partial-local-defs): mul pass
-2021-11-24 17:30:30.445 - ERROR - Fail ✗... (deftest-partial-local-defs-with-fixture / test-mul-variable-partial-local-defs): mul fail
-2021-11-24 17:30:30.445 - DEBUG - (deftest-partial-local-defs-with-fixture): Test Summary → Total: 4    Pass: 2    Fail: 2
+2021-11-24 22:51:24.656 - INFO - Pass ✓... (deftest-partial-local-defs-with-fixture / test-sub-variable-partial-local-defs): difference should be -3
+2021-11-24 22:51:24.658 - ERROR - Fail ✗... (deftest-partial-local-defs-with-fixture / test-sub-variable-partial-local-defs): difference should be -19
+2021-11-24 22:51:24.662 - INFO - Pass ✓... (deftest-partial-local-defs-with-fixture / test-mul-variable-partial-local-defs): product should be 2
+2021-11-24 22:51:24.664 - ERROR - Fail ✗... (deftest-partial-local-defs-with-fixture / test-mul-variable-partial-local-defs): product should be -3
+2021-11-24 22:51:24.664 - DEBUG - (deftest-partial-local-defs-with-fixture): Test Summary → Total: 4    Pass: 2    Fail: 2

@@ -1,8 +1,8 @@
-2021-11-24 17:24:55.856 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): mul pass
-2021-11-24 17:24:55.858 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
-2021-11-24 17:24:55.864 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): div pass
-2021-11-24 17:24:55.866 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail
-2021-11-24 17:24:55.872 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul pass
-2021-11-24 17:24:55.874 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): mul fail
-2021-11-24 17:24:55.879 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div pass
-2021-11-24 17:24:55.882 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): div fail
+2021-11-24 22:50:31.689 - INFO - Pass ✓... (suite-with-fixtures / test-mul-variable): product should be 1
+2021-11-24 22:50:31.692 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): product should be 4
+2021-11-24 22:50:31.697 - INFO - Pass ✓... (suite-with-fixtures / test-div-variable): ratio should be 1
+2021-11-24 22:50:31.701 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): ratio should be 4
+2021-11-24 22:50:31.705 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): product should be 1
+2021-11-24 22:50:31.708 - ERROR - Fail ✗... (suite-with-fixtures / test-mul-variable): product should be 4
+2021-11-24 22:50:31.713 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): ratio should be 1
+2021-11-24 22:50:31.715 - ERROR - Fail ✗... (suite-with-fixtures / test-div-variable): ratio should be 4

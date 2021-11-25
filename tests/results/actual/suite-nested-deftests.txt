@@ -1,13 +1,13 @@
-2021-11-24 17:30:30.484 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-1-report-combined-results): add pass
-2021-11-24 17:30:30.487 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-1-report-combined-results): sub fail
-2021-11-24 17:30:30.492 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-1-report-combined-results / test-sub): sub pass
-2021-11-24 17:30:30.495 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-1-report-combined-results / test-sub): sub fail
-2021-11-24 17:30:30.500 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-1-report-combined-results / test-div): div pass
-2021-11-24 17:30:30.502 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-1-report-combined-results / test-div): div fail
-2021-11-24 17:30:30.502 - DEBUG - (suite-nested-deftests / test-arithmetic-1-report-combined-results): Test Summary → Total: 6    Pass: 3    Fail: 3
-2021-11-24 17:30:30.507 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-2-report-combined-results / test-add): add pass
-2021-11-24 17:30:30.510 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-2-report-combined-results / test-add): add fail
-2021-11-24 17:30:30.515 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-2-report-combined-results / test-mul): mul pass
-2021-11-24 17:30:30.518 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-2-report-combined-results / test-mul): mul fail
-2021-11-24 17:30:30.518 - DEBUG - (suite-nested-deftests / test-arithmetic-2-report-combined-results): Test Summary → Total: 4    Pass: 2    Fail: 2
-2021-11-24 17:30:30.519 - DEBUG - (suite-nested-deftests): Test Summary → Total: 10    Pass: 5    Fail: 5
+2021-11-24 22:51:24.691 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-1-report-combined-results): add pass
+2021-11-24 22:51:24.693 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-1-report-combined-results): sub fail
+2021-11-24 22:51:24.696 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-1-report-combined-results / test-sub): sub pass
+2021-11-24 22:51:24.698 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-1-report-combined-results / test-sub): sub fail
+2021-11-24 22:51:24.702 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-1-report-combined-results / test-div): div pass
+2021-11-24 22:51:24.704 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-1-report-combined-results / test-div): div fail
+2021-11-24 22:51:24.704 - DEBUG - (suite-nested-deftests / test-arithmetic-1-report-combined-results): Test Summary → Total: 6    Pass: 3    Fail: 3
+2021-11-24 22:51:24.707 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-2-report-combined-results / test-add): add pass
+2021-11-24 22:51:24.709 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-2-report-combined-results / test-add): add fail
+2021-11-24 22:51:24.713 - INFO - Pass ✓... (suite-nested-deftests / test-arithmetic-2-report-combined-results / test-mul): mul pass
+2021-11-24 22:51:24.715 - ERROR - Fail ✗... (suite-nested-deftests / test-arithmetic-2-report-combined-results / test-mul): mul fail
+2021-11-24 22:51:24.715 - DEBUG - (suite-nested-deftests / test-arithmetic-2-report-combined-results): Test Summary → Total: 4    Pass: 2    Fail: 2
+2021-11-24 22:51:24.715 - DEBUG - (suite-nested-deftests): Test Summary → Total: 10    Pass: 5    Fail: 5

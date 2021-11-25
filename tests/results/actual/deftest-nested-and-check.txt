@@ -1,7 +1,7 @@
-2021-11-24 17:30:30.173 - INFO - Pass ✓... (test-arithmetic-1-report-combined-results): add pass
-2021-11-24 17:30:30.176 - ERROR - Fail ✗... (test-arithmetic-1-report-combined-results): sub fail
-2021-11-24 17:30:30.180 - INFO - Pass ✓... (test-arithmetic-1-report-combined-results / test-sub): sub pass
-2021-11-24 17:30:30.183 - ERROR - Fail ✗... (test-arithmetic-1-report-combined-results / test-sub): sub fail
-2021-11-24 17:30:30.188 - INFO - Pass ✓... (test-arithmetic-1-report-combined-results / test-div): div pass
-2021-11-24 17:30:30.190 - ERROR - Fail ✗... (test-arithmetic-1-report-combined-results / test-div): div fail
-2021-11-24 17:30:30.190 - DEBUG - (test-arithmetic-1-report-combined-results): Test Summary → Total: 6    Pass: 3    Fail: 3
+2021-11-24 22:51:24.460 - INFO - Pass ✓... (test-arithmetic-1-report-combined-results): add pass
+2021-11-24 22:51:24.462 - ERROR - Fail ✗... (test-arithmetic-1-report-combined-results): sub fail
+2021-11-24 22:51:24.465 - INFO - Pass ✓... (test-arithmetic-1-report-combined-results / test-sub): sub pass
+2021-11-24 22:51:24.467 - ERROR - Fail ✗... (test-arithmetic-1-report-combined-results / test-sub): sub fail
+2021-11-24 22:51:24.470 - INFO - Pass ✓... (test-arithmetic-1-report-combined-results / test-div): div pass
+2021-11-24 22:51:24.472 - ERROR - Fail ✗... (test-arithmetic-1-report-combined-results / test-div): div fail
+2021-11-24 22:51:24.472 - DEBUG - (test-arithmetic-1-report-combined-results): Test Summary → Total: 6    Pass: 3    Fail: 3

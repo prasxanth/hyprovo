@@ -1,9 +1,9 @@
-2021-11-24 17:24:55.817 - INFO - Pass ✓... (suite-with-fixture-in-deftest / deftest-with-fixture / test-add-variable): add pass
-2021-11-24 17:24:55.820 - ERROR - Fail ✗... (suite-with-fixture-in-deftest / deftest-with-fixture / test-add-variable): add fail
-2021-11-24 17:24:55.826 - INFO - Pass ✓... (suite-with-fixture-in-deftest / deftest-with-fixture / test-sub-variable): sub pass
-2021-11-24 17:24:55.828 - ERROR - Fail ✗... (suite-with-fixture-in-deftest / deftest-with-fixture / test-sub-variable): sub fail
-2021-11-24 17:24:55.834 - INFO - Pass ✓... (suite-with-fixture-in-deftest / deftest-with-fixture / test-mul): mul pass
-2021-11-24 17:24:55.837 - ERROR - Fail ✗... (suite-with-fixture-in-deftest / deftest-with-fixture / test-mul): mul fail
-2021-11-24 17:24:55.841 - INFO - Pass ✓... (suite-with-fixture-in-deftest / deftest-with-fixture / test-div): div pass
-2021-11-24 17:24:55.844 - ERROR - Fail ✗... (suite-with-fixture-in-deftest / deftest-with-fixture / test-div): div fail
-2021-11-24 17:24:55.844 - DEBUG - (suite-with-fixture-in-deftest / deftest-with-fixture): Test Summary → Total: 8    Pass: 4    Fail: 4
+2021-11-24 22:50:31.649 - INFO - Pass ✓... (suite-with-fixture-in-deftest / deftest-with-fixture / test-add-variable): sum should be 2
+2021-11-24 22:50:31.652 - ERROR - Fail ✗... (suite-with-fixture-in-deftest / deftest-with-fixture / test-add-variable): sum should be 3
+2021-11-24 22:50:31.658 - INFO - Pass ✓... (suite-with-fixture-in-deftest / deftest-with-fixture / test-sub-variable): difference should be 0
+2021-11-24 22:50:31.661 - ERROR - Fail ✗... (suite-with-fixture-in-deftest / deftest-with-fixture / test-sub-variable): difference should be 4
+2021-11-24 22:50:31.666 - INFO - Pass ✓... (suite-with-fixture-in-deftest / deftest-with-fixture / test-mul): mul pass
+2021-11-24 22:50:31.668 - ERROR - Fail ✗... (suite-with-fixture-in-deftest / deftest-with-fixture / test-mul): mul fail
+2021-11-24 22:50:31.673 - INFO - Pass ✓... (suite-with-fixture-in-deftest / deftest-with-fixture / test-div): div pass
+2021-11-24 22:50:31.676 - ERROR - Fail ✗... (suite-with-fixture-in-deftest / deftest-with-fixture / test-div): div fail
+2021-11-24 22:50:31.676 - DEBUG - (suite-with-fixture-in-deftest / deftest-with-fixture): Test Summary → Total: 8    Pass: 4    Fail: 4

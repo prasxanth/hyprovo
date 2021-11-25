@@ -1,8 +1,8 @@
-2021-11-24 17:30:30.267 - INFO - Pass ✓... (test-mul-variable): mul pass
-2021-11-24 17:30:30.270 - ERROR - Fail ✗... (test-mul-variable): mul fail
-2021-11-24 17:30:30.275 - INFO - Pass ✓... (test-div-variable): div pass
-2021-11-24 17:30:30.277 - ERROR - Fail ✗... (test-div-variable): div fail
-2021-11-24 17:30:30.283 - ERROR - Fail ✗... (test-mul-variable): mul pass
-2021-11-24 17:30:30.286 - ERROR - Fail ✗... (test-mul-variable): mul fail
-2021-11-24 17:30:30.291 - ERROR - Fail ✗... (test-div-variable): div pass
-2021-11-24 17:30:30.293 - ERROR - Fail ✗... (test-div-variable): div fail
+2021-11-24 22:51:24.526 - INFO - Pass ✓... (test-mul-variable): product should be 1
+2021-11-24 22:51:24.528 - ERROR - Fail ✗... (test-mul-variable): product should be 4
+2021-11-24 22:51:24.532 - INFO - Pass ✓... (test-div-variable): ratio should be 1
+2021-11-24 22:51:24.533 - ERROR - Fail ✗... (test-div-variable): ratio should be 4
+2021-11-24 22:51:24.537 - ERROR - Fail ✗... (test-mul-variable): product should be 1
+2021-11-24 22:51:24.539 - ERROR - Fail ✗... (test-mul-variable): product should be 4
+2021-11-24 22:51:24.543 - ERROR - Fail ✗... (test-div-variable): ratio should be 1
+2021-11-24 22:51:24.545 - ERROR - Fail ✗... (test-div-variable): ratio should be 4

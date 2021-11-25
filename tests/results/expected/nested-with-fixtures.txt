@@ -1,16 +1,16 @@
-2021-11-24 17:24:55.530 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 17:24:55.532 - ERROR - Fail ✗... (test-add-variable): add fail
-2021-11-24 17:24:55.536 - INFO - Pass ✓... (test-sub-variable): sub pass
-2021-11-24 17:24:55.539 - ERROR - Fail ✗... (test-sub-variable): sub fail
-2021-11-24 17:24:55.543 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 17:24:55.545 - ERROR - Fail ✗... (test-add-variable): add fail
-2021-11-24 17:24:55.551 - INFO - Pass ✓... (test-sub-variable): sub pass
-2021-11-24 17:24:55.553 - ERROR - Fail ✗... (test-sub-variable): sub fail
-2021-11-24 17:24:55.560 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 17:24:55.563 - ERROR - Fail ✗... (test-add-variable): add fail
-2021-11-24 17:24:55.569 - INFO - Pass ✓... (test-sub-variable): sub pass
-2021-11-24 17:24:55.572 - ERROR - Fail ✗... (test-sub-variable): sub fail
-2021-11-24 17:24:55.577 - INFO - Pass ✓... (test-add-variable): add pass
-2021-11-24 17:24:55.579 - ERROR - Fail ✗... (test-add-variable): add fail
-2021-11-24 17:24:55.584 - INFO - Pass ✓... (test-sub-variable): sub pass
-2021-11-24 17:24:55.587 - ERROR - Fail ✗... (test-sub-variable): sub fail
+2021-11-24 22:50:31.390 - INFO - Pass ✓... (test-add-variable): sum should be 2
+2021-11-24 22:50:31.393 - ERROR - Fail ✗... (test-add-variable): sum should be 3
+2021-11-24 22:50:31.399 - INFO - Pass ✓... (test-sub-variable): difference should be 0
+2021-11-24 22:50:31.402 - ERROR - Fail ✗... (test-sub-variable): difference should be 4
+2021-11-24 22:50:31.407 - INFO - Pass ✓... (test-add-variable): sum should be 2
+2021-11-24 22:50:31.410 - ERROR - Fail ✗... (test-add-variable): sum should be 3
+2021-11-24 22:50:31.416 - INFO - Pass ✓... (test-sub-variable): difference should be 0
+2021-11-24 22:50:31.419 - ERROR - Fail ✗... (test-sub-variable): difference should be 4
+2021-11-24 22:50:31.427 - INFO - Pass ✓... (test-add-variable): sum should be 2
+2021-11-24 22:50:31.429 - ERROR - Fail ✗... (test-add-variable): sum should be 3
+2021-11-24 22:50:31.434 - INFO - Pass ✓... (test-sub-variable): difference should be 0
+2021-11-24 22:50:31.437 - ERROR - Fail ✗... (test-sub-variable): difference should be 4
+2021-11-24 22:50:31.442 - INFO - Pass ✓... (test-add-variable): sum should be 2
+2021-11-24 22:50:31.445 - ERROR - Fail ✗... (test-add-variable): sum should be 3
+2021-11-24 22:50:31.449 - INFO - Pass ✓... (test-sub-variable): difference should be 0
+2021-11-24 22:50:31.452 - ERROR - Fail ✗... (test-sub-variable): difference should be 4

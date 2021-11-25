@@ -30,8 +30,8 @@ Description: {
            "id": "31062627",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:33.131901Z",
-             "start_time": "2021-11-24T17:12:33.034300Z"
+             "end_time": "2021-11-25T06:30:30.237798Z",
+             "start_time": "2021-11-25T06:30:30.148058Z"
             }
            },
            "outputs": [],
@@ -91,8 +91,8 @@ Description: {
            "id": "bb2a43d2",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:33.199171Z",
-             "start_time": "2021-11-24T17:12:33.133686Z"
+             "end_time": "2021-11-25T06:30:30.292108Z",
+             "start_time": "2021-11-25T06:30:30.240249Z"
             }
            },
            "outputs": [
@@ -100,10 +100,8 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:33.188 - INFO - Pass ✓...  Add pass\n",
-              "2021-11-24 09:12:33.196 - ERROR - Fail ✗...  Add fail \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n"
+              "2021-11-24 22:30:30.281 - INFO - Pass ✓...  Add pass\n",
+              "2021-11-24 22:30:30.287 - ERROR - Fail ✗...  Add fail\n"
              ]
             },
             {
@@ -136,8 +134,6 @@ Description: {
             "Timestamp - Level - Message\n",
             "```\n",
             "\n",
-            "For tests that fail, both the expected and actual values are printed.\n",
-            "\n",
             "The tuple `(2, 1, 1)` is the return value of `check` denoting the aggregated statistics for all the test results. It is of the form,\n",
             "\n",
             "```\n",
@@ -163,8 +159,8 @@ Description: {
            "id": "5fcb2a77",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:33.294748Z",
-             "start_time": "2021-11-24T17:12:33.202101Z"
+             "end_time": "2021-11-25T06:30:30.346367Z",
+             "start_time": "2021-11-25T06:30:30.295681Z"
             }
            },
            "outputs": [
@@ -172,10 +168,8 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:33.281 - INFO - Pass ✓...  Add pass\n",
-              "2021-11-24 09:12:33.291 - ERROR - Fail ✗...  Add fail \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n"
+              "2021-11-24 22:30:30.331 - INFO - Pass ✓...  Add pass\n",
+              "2021-11-24 22:30:30.343 - ERROR - Fail ✗...  Add fail\n"
              ]
             },
             {
@@ -211,8 +205,8 @@ Description: {
            "id": "21be8bd3",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:33.382355Z",
-             "start_time": "2021-11-24T17:12:33.296886Z"
+             "end_time": "2021-11-25T06:30:30.434017Z",
+             "start_time": "2021-11-25T06:30:30.348492Z"
             }
            },
            "outputs": [
@@ -220,12 +214,10 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:33.358 - INFO - Pass ✓...  Add pass\n",
-              "2021-11-24 09:12:33.368 - ERROR - Fail ✗...  Add fail \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n",
-              "2021-11-24 09:12:33.369 - DEBUG -  Test Summary → Total: 2    Pass: 1    Fail: 1\n",
-              "2021-11-24 09:12:33.380 - INFO - Pass ✓...  Sub pass\n"
+              "2021-11-24 22:30:30.404 - INFO - Pass ✓...  Add pass\n",
+              "2021-11-24 22:30:30.415 - ERROR - Fail ✗...  Add fail\n",
+              "2021-11-24 22:30:30.416 - DEBUG -  Test Summary → Total: 2    Pass: 1    Fail: 1\n",
+              "2021-11-24 22:30:30.431 - INFO - Pass ✓...  Sub pass\n"
              ]
             },
             {
@@ -276,15 +268,15 @@ Description: {
            "id": "fe527d36",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:33.544939Z",
-             "start_time": "2021-11-24T17:12:33.384322Z"
+             "end_time": "2021-11-25T06:30:30.607229Z",
+             "start_time": "2021-11-25T06:30:30.436311Z"
             }
            },
            "outputs": [
             {
              "data": {
               "text/plain": [
-               "<function test_add at 0x7fb80c20ef28>"
+               "<function test_add at 0x7fe5c96ad8c8>"
               ]
              },
              "execution_count": 5,
@@ -315,8 +307,8 @@ Description: {
            "id": "bb222720",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:33.618188Z",
-             "start_time": "2021-11-24T17:12:33.547499Z"
+             "end_time": "2021-11-25T06:30:30.673461Z",
+             "start_time": "2021-11-25T06:30:30.609794Z"
             }
            },
            "outputs": [
@@ -324,10 +316,8 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:33.606 - INFO - Pass ✓... (test-add): Add pass\n",
-              "2021-11-24 09:12:33.615 - ERROR - Fail ✗... (test-add): Add fail \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n"
+              "2021-11-24 22:30:30.664 - INFO - Pass ✓... (test-add): Add pass\n",
+              "2021-11-24 22:30:30.670 - ERROR - Fail ✗... (test-add): Add fail\n"
              ]
             },
             {
@@ -363,8 +353,8 @@ Description: {
            "id": "a8bce770",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:33.877261Z",
-             "start_time": "2021-11-24T17:12:33.620453Z"
+             "end_time": "2021-11-25T06:30:30.958654Z",
+             "start_time": "2021-11-25T06:30:30.675593Z"
             }
            },
            "outputs": [
@@ -372,10 +362,8 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:33.866 - INFO - Pass ✓... (test-add-var): Sum of two internally-defined variables should be 3\n",
-              "2021-11-24 09:12:33.873 - ERROR - Fail ✗... (test-add-var): Sum of two internally-defined variables should be 5 \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n"
+              "2021-11-24 22:30:30.920 - INFO - Pass ✓... (test-add-var): Add pass\n",
+              "2021-11-24 22:30:30.927 - ERROR - Fail ✗... (test-add-var): Add fail\n"
              ]
             },
             {
@@ -393,8 +381,8 @@ Description: {
             "(deftest test-add-var\n",
             "  (setv a 1 b 2)\n",
             "  (check \n",
-            "   (= (+ a b) 3 \"Sum of two internally-defined variables should be 3\")\n",
-            "   (= (+ a b) 5 \"Sum of two internally-defined variables should be 5\")))\n",
+            "   (= (+ a b) 3 \"Add pass\")\n",
+            "   (= (+ a b) 5 \"Add fail\")))\n",
             "\n",
             "((test-add-var))"
            ]
@@ -415,15 +403,15 @@ Description: {
            "id": "0a3aa31f",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:34.039604Z",
-             "start_time": "2021-11-24T17:12:33.881137Z"
+             "end_time": "2021-11-25T06:30:31.167281Z",
+             "start_time": "2021-11-25T06:30:30.963503Z"
             }
            },
            "outputs": [
             {
              "data": {
               "text/plain": [
-               "<function test_sub at 0x7fb80c18bf28>"
+               "<function test_sub at 0x7fe5c944ef28>"
               ]
              },
              "execution_count": 8,
@@ -444,8 +432,8 @@ Description: {
            "id": "bcdff383",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:34.604890Z",
-             "start_time": "2021-11-24T17:12:34.042923Z"
+             "end_time": "2021-11-25T06:30:31.667493Z",
+             "start_time": "2021-11-25T06:30:31.169733Z"
             }
            },
            "outputs": [
@@ -453,16 +441,12 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:34.556 - INFO - Pass ✓... (test-basic-arithmetic): Add pass\n",
-              "2021-11-24 09:12:34.571 - INFO - Pass ✓... (test-basic-arithmetic / test-add): Add pass\n",
-              "2021-11-24 09:12:34.579 - ERROR - Fail ✗... (test-basic-arithmetic / test-add): Add fail \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n",
-              "2021-11-24 09:12:34.592 - INFO - Pass ✓... (test-basic-arithmetic / test-sub): Sub pass\n",
-              "2021-11-24 09:12:34.600 - ERROR - Fail ✗... (test-basic-arithmetic / test-sub): Sub fail \n",
-              "                                    Expected: 1\n",
-              "                                    Got: -1\n",
-              "2021-11-24 09:12:34.601 - DEBUG - (test-basic-arithmetic): Test Summary → Total: 5    Pass: 3    Fail: 2\n"
+              "2021-11-24 22:30:31.620 - INFO - Pass ✓... (test-basic-arithmetic): Add pass\n",
+              "2021-11-24 22:30:31.632 - INFO - Pass ✓... (test-basic-arithmetic / test-add): Add pass\n",
+              "2021-11-24 22:30:31.638 - ERROR - Fail ✗... (test-basic-arithmetic / test-add): Add fail\n",
+              "2021-11-24 22:30:31.653 - INFO - Pass ✓... (test-basic-arithmetic / test-sub): Sub pass\n",
+              "2021-11-24 22:30:31.663 - ERROR - Fail ✗... (test-basic-arithmetic / test-sub): Sub fail\n",
+              "2021-11-24 22:30:31.664 - DEBUG - (test-basic-arithmetic): Test Summary → Total: 5    Pass: 3    Fail: 2\n"
              ]
             },
             {
@@ -504,8 +488,8 @@ Description: {
            "id": "e04fc5c3",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:35.108321Z",
-             "start_time": "2021-11-24T17:12:34.607369Z"
+             "end_time": "2021-11-25T06:30:32.161090Z",
+             "start_time": "2021-11-25T06:30:31.669595Z"
             }
            },
            "outputs": [
@@ -513,16 +497,12 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:35.054 - INFO - Pass ✓... (test-basic-arithmetic): Add pass\n",
-              "2021-11-24 09:12:35.070 - INFO - Pass ✓... (test-basic-arithmetic / test-add): Add pass\n",
-              "2021-11-24 09:12:35.080 - ERROR - Fail ✗... (test-basic-arithmetic / test-add): Add fail \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n",
-              "2021-11-24 09:12:35.094 - INFO - Pass ✓... (test-basic-arithmetic / test-sub): Sub pass\n",
-              "2021-11-24 09:12:35.103 - ERROR - Fail ✗... (test-basic-arithmetic / test-sub): Sub fail \n",
-              "                                    Expected: 1\n",
-              "                                    Got: -1\n",
-              "2021-11-24 09:12:35.104 - DEBUG - (test-basic-arithmetic): Test Summary → Total: 5    Pass: 3    Fail: 2\n"
+              "2021-11-24 22:30:32.104 - INFO - Pass ✓... (test-basic-arithmetic): Add pass\n",
+              "2021-11-24 22:30:32.120 - INFO - Pass ✓... (test-basic-arithmetic / test-add): Add pass\n",
+              "2021-11-24 22:30:32.131 - ERROR - Fail ✗... (test-basic-arithmetic / test-add): Add fail\n",
+              "2021-11-24 22:30:32.147 - INFO - Pass ✓... (test-basic-arithmetic / test-sub): Sub pass\n",
+              "2021-11-24 22:30:32.156 - ERROR - Fail ✗... (test-basic-arithmetic / test-sub): Sub fail\n",
+              "2021-11-24 22:30:32.157 - DEBUG - (test-basic-arithmetic): Test Summary → Total: 5    Pass: 3    Fail: 2\n"
              ]
             },
             {
@@ -569,15 +549,15 @@ Description: {
            "id": "bff21a0d",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:35.150516Z",
-             "start_time": "2021-11-24T17:12:35.110610Z"
+             "end_time": "2021-11-25T06:30:32.206117Z",
+             "start_time": "2021-11-25T06:30:32.163741Z"
             }
            },
            "outputs": [
             {
              "data": {
               "text/plain": [
-               "<function fix_a at 0x7fb80c0db2f0>"
+               "<function fix_a at 0x7fe5d0131378>"
               ]
              },
              "execution_count": 11,
@@ -605,15 +585,15 @@ Description: {
            "id": "23117960",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:35.311420Z",
-             "start_time": "2021-11-24T17:12:35.152697Z"
+             "end_time": "2021-11-25T06:30:32.376175Z",
+             "start_time": "2021-11-25T06:30:32.207913Z"
             }
            },
            "outputs": [
             {
              "data": {
               "text/plain": [
-               "<function test_add_fixvar at 0x7fb80c18b488>"
+               "<function test_add_fixvar at 0x7fe5d01317b8>"
               ]
              },
              "execution_count": 12,
@@ -624,8 +604,8 @@ Description: {
            "source": [
             "(deftest test-add-fixvar\n",
             "         (check\n",
-            "          (= (+ a b) 2 \"Sum of two variables should be 2\")\n",
-            "          (= (+ a b) 5 \"Sum of two variables should be 5\")))"
+            "          (= (+ a b) 2 \"Sum should be 2\")\n",
+            "          (= (+ a b) 5 \"Sum should be 5\")))"
            ]
           },
           {
@@ -634,8 +614,8 @@ Description: {
            "id": "55bcedfe",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:35.420830Z",
-             "start_time": "2021-11-24T17:12:35.313758Z"
+             "end_time": "2021-11-25T06:30:32.453987Z",
+             "start_time": "2021-11-25T06:30:32.378204Z"
             }
            },
            "outputs": [
@@ -643,10 +623,8 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:35.407 - INFO - Pass ✓... (test-add-fixvar): Sum of two variables should be 2\n",
-              "2021-11-24 09:12:35.417 - ERROR - Fail ✗... (test-add-fixvar): Sum of two variables should be 5 \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 2\n"
+              "2021-11-24 22:30:32.441 - INFO - Pass ✓... (test-add-fixvar): Sum should be 2\n",
+              "2021-11-24 22:30:32.451 - ERROR - Fail ✗... (test-add-fixvar): Sum should be 5\n"
              ]
             },
             {
@@ -680,15 +658,15 @@ Description: {
            "id": "c6239e7f",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:35.466893Z",
-             "start_time": "2021-11-24T17:12:35.423396Z"
+             "end_time": "2021-11-25T06:30:32.488924Z",
+             "start_time": "2021-11-25T06:30:32.456161Z"
             }
            },
            "outputs": [
             {
              "data": {
               "text/plain": [
-               "<function fix_b at 0x7fb80c0dbd90>"
+               "<function fix_b at 0x7fe5d0131e18>"
               ]
              },
              "execution_count": 14,
@@ -706,8 +684,8 @@ Description: {
            "id": "53082815",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:35.547031Z",
-             "start_time": "2021-11-24T17:12:35.469179Z"
+             "end_time": "2021-11-25T06:30:32.571117Z",
+             "start_time": "2021-11-25T06:30:32.491069Z"
             }
            },
            "outputs": [
@@ -715,10 +693,8 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:35.536 - INFO - Pass ✓... (test-add-fixvar): Sum of two variables should be 2\n",
-              "2021-11-24 09:12:35.544 - ERROR - Fail ✗... (test-add-fixvar): Sum of two variables should be 5 \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 2\n"
+              "2021-11-24 22:30:32.557 - INFO - Pass ✓... (test-add-fixvar): Sum should be 2\n",
+              "2021-11-24 22:30:32.568 - ERROR - Fail ✗... (test-add-fixvar): Sum should be 5\n"
              ]
             },
             {
@@ -750,15 +726,15 @@ Description: {
            "id": "1cc9a49f",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:35.699454Z",
-             "start_time": "2021-11-24T17:12:35.549218Z"
+             "end_time": "2021-11-25T06:30:32.763270Z",
+             "start_time": "2021-11-25T06:30:32.573476Z"
             }
            },
            "outputs": [
             {
              "data": {
               "text/plain": [
-               "<function test_sub_fixvar at 0x7fb80cbd2620>"
+               "<function test_sub_fixvar at 0x7fe5c94016a8>"
               ]
              },
              "execution_count": 16,
@@ -769,8 +745,8 @@ Description: {
            "source": [
             "(deftest test-sub-fixvar\n",
             "         (check\n",
-            "          (= (- a b) 0 \"Difference of two variables should be 0\")\n",
-            "          (= (- a b) -1 \"Difference of two variables should be -1\")))"
+            "          (= (- a b) 0 \"Difference should be 0\")\n",
+            "          (= (- a b) -1 \"Difference should be -1\")))"
            ]
           },
           {
@@ -779,8 +755,8 @@ Description: {
            "id": "d0e53d31",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:35.859813Z",
-             "start_time": "2021-11-24T17:12:35.702017Z"
+             "end_time": "2021-11-25T06:30:32.910937Z",
+             "start_time": "2021-11-25T06:30:32.765704Z"
             }
            },
            "outputs": [
@@ -788,14 +764,10 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:35.818 - INFO - Pass ✓... (test-add-fixvar): Sum of two variables should be 2\n",
-              "2021-11-24 09:12:35.826 - ERROR - Fail ✗... (test-add-fixvar): Sum of two variables should be 5 \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 2\n",
-              "2021-11-24 09:12:35.843 - INFO - Pass ✓... (test-sub-fixvar): Difference of two variables should be 0\n",
-              "2021-11-24 09:12:35.856 - ERROR - Fail ✗... (test-sub-fixvar): Difference of two variables should be -1 \n",
-              "                                    Expected: -1\n",
-              "                                    Got: 0\n"
+              "2021-11-24 22:30:32.859 - INFO - Pass ✓... (test-add-fixvar): Sum should be 2\n",
+              "2021-11-24 22:30:32.868 - ERROR - Fail ✗... (test-add-fixvar): Sum should be 5\n",
+              "2021-11-24 22:30:32.892 - INFO - Pass ✓... (test-sub-fixvar): Difference should be 0\n",
+              "2021-11-24 22:30:32.907 - ERROR - Fail ✗... (test-sub-fixvar): Difference should be -1\n"
              ]
             },
             {
@@ -827,8 +799,8 @@ Description: {
            "id": "65884f6b",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:35.947541Z",
-             "start_time": "2021-11-24T17:12:35.862774Z"
+             "end_time": "2021-11-25T06:30:32.987135Z",
+             "start_time": "2021-11-25T06:30:32.913698Z"
             }
            },
            "outputs": [
@@ -836,10 +808,8 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:35.935 - INFO - Pass ✓... (test-add-var): Sum of two internally-defined variables should be 3\n",
-              "2021-11-24 09:12:35.944 - ERROR - Fail ✗... (test-add-var): Sum of two internally-defined variables should be 5 \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n"
+              "2021-11-24 22:30:32.974 - INFO - Pass ✓... (test-add-var): Add pass\n",
+              "2021-11-24 22:30:32.984 - ERROR - Fail ✗... (test-add-var): Add fail\n"
              ]
             },
             {
@@ -871,8 +841,8 @@ Description: {
            "id": "5b5b7c7c",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:36.070938Z",
-             "start_time": "2021-11-24T17:12:35.949526Z"
+             "end_time": "2021-11-25T06:30:33.111449Z",
+             "start_time": "2021-11-25T06:30:32.989291Z"
             }
            },
            "outputs": [
@@ -880,10 +850,8 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:36.055 - INFO - Pass ✓... (test-add-var): Sum of two internally-defined variables should be 3\n",
-              "2021-11-24 09:12:36.068 - ERROR - Fail ✗... (test-add-var): Sum of two internally-defined variables should be 5 \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n"
+              "2021-11-24 22:30:33.099 - INFO - Pass ✓... (test-add-var): Add pass\n",
+              "2021-11-24 22:30:33.108 - ERROR - Fail ✗... (test-add-var): Add fail\n"
              ]
             },
             {
@@ -920,8 +888,8 @@ Description: {
            "id": "de3e8382",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:36.388636Z",
-             "start_time": "2021-11-24T17:12:36.073084Z"
+             "end_time": "2021-11-25T06:30:33.426881Z",
+             "start_time": "2021-11-25T06:30:33.113829Z"
             }
            },
            "outputs": [
@@ -929,24 +897,14 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:36.287 - INFO - Pass ✓... (test-add-fixvar): Sum of two variables should be 2\n",
-              "2021-11-24 09:12:36.296 - ERROR - Fail ✗... (test-add-fixvar): Sum of two variables should be 5 \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 2\n",
-              "2021-11-24 09:12:36.314 - INFO - Pass ✓... (test-sub-fixvar): Difference of two variables should be 0\n",
-              "2021-11-24 09:12:36.326 - ERROR - Fail ✗... (test-sub-fixvar): Difference of two variables should be -1 \n",
-              "                                    Expected: -1\n",
-              "                                    Got: 0\n",
-              "2021-11-24 09:12:36.348 - INFO - Pass ✓... (test-add-fixvar): Sum of two variables should be 2\n",
-              "2021-11-24 09:12:36.357 - ERROR - Fail ✗... (test-add-fixvar): Sum of two variables should be 5 \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 2\n",
-              "2021-11-24 09:12:36.374 - ERROR - Fail ✗... (test-sub-fixvar): Difference of two variables should be 0 \n",
-              "                                    Expected: 0\n",
-              "                                    Got: -2\n",
-              "2021-11-24 09:12:36.385 - ERROR - Fail ✗... (test-sub-fixvar): Difference of two variables should be -1 \n",
-              "                                    Expected: -1\n",
-              "                                    Got: -2\n"
+              "2021-11-24 22:30:33.309 - INFO - Pass ✓... (test-add-fixvar): Sum should be 2\n",
+              "2021-11-24 22:30:33.320 - ERROR - Fail ✗... (test-add-fixvar): Sum should be 5\n",
+              "2021-11-24 22:30:33.342 - INFO - Pass ✓... (test-sub-fixvar): Difference should be 0\n",
+              "2021-11-24 22:30:33.355 - ERROR - Fail ✗... (test-sub-fixvar): Difference should be -1\n",
+              "2021-11-24 22:30:33.378 - INFO - Pass ✓... (test-add-fixvar): Sum should be 2\n",
+              "2021-11-24 22:30:33.390 - ERROR - Fail ✗... (test-add-fixvar): Sum should be 5\n",
+              "2021-11-24 22:30:33.414 - ERROR - Fail ✗... (test-sub-fixvar): Difference should be 0\n",
+              "2021-11-24 22:30:33.424 - ERROR - Fail ✗... (test-sub-fixvar): Difference should be -1\n"
              ]
             },
             {
@@ -994,8 +952,8 @@ Description: {
            "id": "aa34825b",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:36.513537Z",
-             "start_time": "2021-11-24T17:12:36.391036Z"
+             "end_time": "2021-11-25T06:30:33.553037Z",
+             "start_time": "2021-11-25T06:30:33.429200Z"
             }
            },
            "outputs": [],
@@ -1021,8 +979,8 @@ Description: {
            "id": "11f1cc31",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:36.570198Z",
-             "start_time": "2021-11-24T17:12:36.515762Z"
+             "end_time": "2021-11-25T06:30:33.627744Z",
+             "start_time": "2021-11-25T06:30:33.554693Z"
             }
            },
            "outputs": [
@@ -1030,15 +988,11 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:36.534 - INFO - Pass ✓... (test-suite-arithmetic-1 / test-add): Add pass\n",
-              "2021-11-24 09:12:36.542 - ERROR - Fail ✗... (test-suite-arithmetic-1 / test-add): Add fail \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n",
-              "2021-11-24 09:12:36.556 - INFO - Pass ✓... (test-suite-arithmetic-1 / test-sub): Sub pass\n",
-              "2021-11-24 09:12:36.566 - ERROR - Fail ✗... (test-suite-arithmetic-1 / test-sub): Sub fail \n",
-              "                                    Expected: 1\n",
-              "                                    Got: -1\n",
-              "2021-11-24 09:12:36.567 - DEBUG - (test-suite-arithmetic-1): Test Summary → Total: 4    Pass: 2    Fail: 2\n"
+              "2021-11-24 22:30:33.582 - INFO - Pass ✓... (test-suite-arithmetic-1 / test-add): Add pass\n",
+              "2021-11-24 22:30:33.591 - ERROR - Fail ✗... (test-suite-arithmetic-1 / test-add): Add fail\n",
+              "2021-11-24 22:30:33.611 - INFO - Pass ✓... (test-suite-arithmetic-1 / test-sub): Sub pass\n",
+              "2021-11-24 22:30:33.624 - ERROR - Fail ✗... (test-suite-arithmetic-1 / test-sub): Sub fail\n",
+              "2021-11-24 22:30:33.625 - DEBUG - (test-suite-arithmetic-1): Test Summary → Total: 4    Pass: 2    Fail: 2\n"
              ]
             },
             {
@@ -1072,8 +1026,8 @@ Description: {
            "id": "a3eb7c1e",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:36.672731Z",
-             "start_time": "2021-11-24T17:12:36.574450Z"
+             "end_time": "2021-11-25T06:30:33.739238Z",
+             "start_time": "2021-11-25T06:30:33.632815Z"
             }
            },
            "outputs": [],
@@ -1093,8 +1047,8 @@ Description: {
            "id": "183f9352",
            "metadata": {
             "ExecuteTime": {
-             "end_time": "2021-11-24T17:12:36.845028Z",
-             "start_time": "2021-11-24T17:12:36.674606Z"
+             "end_time": "2021-11-25T06:30:33.919774Z",
+             "start_time": "2021-11-25T06:30:33.741237Z"
             }
            },
            "outputs": [
@@ -1102,25 +1056,17 @@ Description: {
              "name": "stdout",
              "output_type": "stream",
              "text": [
-              "2021-11-24 09:12:36.730 - INFO - Pass ✓... (test-suite-arithmetic-1 / test-add): Add pass\n",
-              "2021-11-24 09:12:36.740 - ERROR - Fail ✗... (test-suite-arithmetic-1 / test-add): Add fail \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 3\n",
-              "2021-11-24 09:12:36.758 - INFO - Pass ✓... (test-suite-arithmetic-1 / test-sub): Sub pass\n",
-              "2021-11-24 09:12:36.768 - ERROR - Fail ✗... (test-suite-arithmetic-1 / test-sub): Sub fail \n",
-              "                                    Expected: 1\n",
-              "                                    Got: -1\n",
-              "2021-11-24 09:12:36.770 - DEBUG - (test-suite-arithmetic-1): Test Summary → Total: 4    Pass: 2    Fail: 2\n",
-              "2021-11-24 09:12:36.793 - INFO - Pass ✓... (test-suite-arithmetic-2): Mul pass\n",
-              "2021-11-24 09:12:36.805 - ERROR - Fail ✗... (test-suite-arithmetic-2): Mul fail \n",
-              "                                    Expected: -1\n",
-              "                                    Got: 2\n",
-              "2021-11-24 09:12:36.827 - INFO - Pass ✓... (test-suite-arithmetic-2 / test-add-fixvar): Sum of two variables should be 2\n",
-              "2021-11-24 09:12:36.840 - ERROR - Fail ✗... (test-suite-arithmetic-2 / test-add-fixvar): Sum of two variables should be 5 \n",
-              "                                    Expected: 5\n",
-              "                                    Got: 2\n",
-              "2021-11-24 09:12:36.841 - DEBUG - (test-suite-arithmetic-2): Test Summary → Total: 4    Pass: 2    Fail: 2\n",
-              "2021-11-24 09:12:36.842 - DEBUG - (test-suite-arithmetic): Test Summary → Total: 8    Pass: 4    Fail: 4\n"
+              "2021-11-24 22:30:33.802 - INFO - Pass ✓... (test-suite-arithmetic-1 / test-add): Add pass\n",
+              "2021-11-24 22:30:33.810 - ERROR - Fail ✗... (test-suite-arithmetic-1 / test-add): Add fail\n",
+              "2021-11-24 22:30:33.834 - INFO - Pass ✓... (test-suite-arithmetic-1 / test-sub): Sub pass\n",
+              "2021-11-24 22:30:33.843 - ERROR - Fail ✗... (test-suite-arithmetic-1 / test-sub): Sub fail\n",
+              "2021-11-24 22:30:33.844 - DEBUG - (test-suite-arithmetic-1): Test Summary → Total: 4    Pass: 2    Fail: 2\n",
+              "2021-11-24 22:30:33.868 - INFO - Pass ✓... (test-suite-arithmetic-2): Mul pass\n",
+              "2021-11-24 22:30:33.876 - ERROR - Fail ✗... (test-suite-arithmetic-2): Mul fail\n",
+              "2021-11-24 22:30:33.904 - INFO - Pass ✓... (test-suite-arithmetic-2 / test-add-fixvar): Sum should be 2\n",
+              "2021-11-24 22:30:33.914 - ERROR - Fail ✗... (test-suite-arithmetic-2 / test-add-fixvar): Sum should be 5\n",
+              "2021-11-24 22:30:33.915 - DEBUG - (test-suite-arithmetic-2): Test Summary → Total: 4    Pass: 2    Fail: 2\n",
+              "2021-11-24 22:30:33.916 - DEBUG - (test-suite-arithmetic): Test Summary → Total: 8    Pass: 4    Fail: 4\n"
              ]
             },
             {
