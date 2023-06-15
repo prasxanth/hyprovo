@@ -1,22 +1,3 @@
-Metadata-Version: 2.1
-Name: hyprovo
-Version: 0.22
-Summary: A minimal unit testing framework in Hy
-Home-page: UNKNOWN
-Author: Prashanth Kumar
-Author-email: prasxanth.kumar@gmail.com
-License: BSD 3-Clause License
-Keywords: unit testing,Hy
-Platform: UNKNOWN
-Classifier: Topic :: Software Development :: Testing
-Classifier: Development Status :: 3 - Alpha
-Classifier: Programming Language :: Python :: 3.6
-Classifier: Programming Language :: Python :: 3.7
-Classifier: Programming Language :: Python :: 3.8
-Classifier: Programming Language :: Python :: 3.9
-Requires-Python: >=3.6
-License-File: LICENSE
-
 hyprovo
 =======
 
@@ -74,5 +55,3 @@ A log file with the start timestamp will be created in the
 --------------
 
 GitHub Repository: https://github.com/prasxanth/hyprovo
-
-
